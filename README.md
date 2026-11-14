@@ -1,3 +1,5 @@
+Educational project for the course Introduction to Finance. Not a real product, service or investment offer. Do not use with real funds.
+
 # LendLink Smart Contract Prototype
 
 Educational project for **Introduction to Finance** at Astana IT University.  
