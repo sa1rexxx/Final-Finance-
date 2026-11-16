@@ -34,7 +34,9 @@ Test 4: Ending the consent closes the access
 The gateway gives consent and then ends it right away. Then the lender asks for the summary. The contract rejects the request.   
 
 Test 5: Loans and the counters
-Lender 1 records a loan in amount range 2. The summary shows one active loan and a debt score of 2. Then the lender marks the loan as repaid. The number of active loans goes back to zero.   Test 6: Disputes
+Lender 1 records a loan in amount range 2. The summary shows one active loan and a debt score of 2. Then the lender marks the loan as repaid. The number of active loans goes back to zero.   
+
+Test 6: Disputes
 Lender 1 records a loan in amount range 3. Then the auditor opens a dispute on this loan. The summary now shows one disputed loan.   
 
 Test 7: Emergency stop
